@@ -1,0 +1,102 @@
+[
+  {
+    "wsufirstname": "Elisha",
+    "wsulastname": "Floyd",
+    "wsuposition": "CB",
+    "wsustars": 3,
+    "wsuheight": "5-10",
+    "wsuweight": 175,
+    "wsuschool": "Mission Hills",
+    "wsuhometown": "San Marcos, Calif."
+  },
+  {
+    "wsufirstname": "Xavier ",
+    "wsulastname": "Ward",
+    "wsuposition": "Dual",
+    "wsustars": 3,
+    "wsuheight": "6-2",
+    "wsuweight": 195,
+    "wsuschool": "Eleanor Roosevelt",
+    "wsuhometown": "Corona, Calif."
+  },
+  {
+    "wsufirstname": "Xavier",
+    "wsulastname": "Young",
+    "wsuposition": "DE",
+    "wsustars": 3,
+    "wsuheight": "6-4",
+    "wsuweight": 240,
+    "wsuschool": "Amos P. Godby",
+    "wsuhometown": "Tallahassee, Fla."
+  },
+  {
+    "wsufirstname": "Orion",
+    "wsulastname": "Peters",
+    "wsuposition": "WR",
+    "wsustars": 3,
+    "wsuheight": "5-10",
+    "wsuweight": 170,
+    "wsuschool": "Inglewood",
+    "wsuhometown": "Inglewood, Calif."
+  },
+  {
+    "wsufirstname": "Brock",
+    "wsulastname": "Dieu",
+    "wsuposition": "OG",
+    "wsustars": 3,
+    "wsuheight": "6-2",
+    "wsuweight": 278,
+    "wsuschool": "Casteel",
+    "wsuhometown": "Queen Creek, Ariz."
+  },
+  {
+    "wsufirstname": "Andrew",
+    "wsulastname": "Edson",
+    "wsuposition": "DE",
+    "wsustars": 3,
+    "wsuheight": "6-3",
+    "wsuweight": 240,
+    "wsuschool": "Mount Si",
+    "wsuhometown": "Snoqualmie, Wash."
+  },
+  {
+    "wsufirstname": "Christian",
+    "wsulastname": "Hilborn",
+    "wsuposition": "OT",
+    "wsustars": 3,
+    "wsuheight": "6-5",
+    "wsuweight": 280,
+    "wsuschool": "Highland",
+    "wsuhometown": "Salt Lake City, Utah"
+  },
+  {
+    "wsufirstname": "Adrian",
+    "wsulastname": "Shepherd",
+    "wsuposition": "S",
+    "wsustars": 3,
+    "wsuheight": "5-10",
+    "wsuweight": 180,
+    "wsuschool": "McKinney",
+    "wsuhometown": "McKinney, TX"
+  },
+  {
+    "wsufirstname": "Ryan",
+    "wsulastname": "Kershaw",
+    "wsuposition": "LB",
+    "wsustars": 3,
+    "wsuheight": "6-2",
+    "wsuweight": 220,
+    "wsuschool": "La Salle",
+    "wsuhometown": "Yakima, Wash."
+  },
+  {
+    "wsufirstname": "Nick",
+    "wsulastname": "Haberer",
+    "wsuposition": "P",
+    "wsustars": 0,
+    "wsuheight": "6-5",
+    "wsuweight": 202,
+    "wsuschool": "ProKick Australia",
+    "wsuhometown": "Australia"
+  }
+]

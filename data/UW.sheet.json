@@ -1,0 +1,132 @@
+[
+  {
+    "uwfirstname": "Sam",
+    "uwlastname": "Huard",
+    "uwposition": "QB",
+    "uwstars": 5,
+    "uwheight": "6-2",
+    "uwweight": 175,
+    "uwschool": "Kennedy Catholic",
+    "uwhometown": "Burien"
+  },
+  {
+    "uwfirstname": "Will",
+    "uwlastname": "Latu",
+    "uwposition": "LB",
+    "uwstars": 4,
+    "uwheight": "6-2",
+    "uwweight": 221,
+    "uwschool": "Bethel",
+    "uwhometown": "Spanaway"
+  },
+  {
+    "uwfirstname": "Jabez",
+    "uwlastname": "Tinae",
+    "uwposition": "WR",
+    "uwstars": 4,
+    "uwheight": "6-1",
+    "uwweight": 187,
+    "uwschool": "Kennedy Catholic",
+    "uwhometown": "Burien"
+  },
+  {
+    "uwfirstname": "Quentin",
+    "uwlastname": "Moore",
+    "uwposition": "TE",
+    "uwstars": 3,
+    "uwheight": "6-6",
+    "uwweight": 245,
+    "uwschool": "Independence CC",
+    "uwhometown": "Kenmore"
+  },
+  {
+    "uwfirstname": "Voi",
+    "uwlastname": "Tunuufi",
+    "uwposition": "DT",
+    "uwstars": 3,
+    "uwheight": "6-2",
+    "uwweight": 280,
+    "uwschool": "Salt Lake City East",
+    "uwhometown": "Salt Lake City"
+  },
+  {
+    "uwfirstname": "Kuao",
+    "uwlastname": "Peihopa",
+    "uwposition": "DT",
+    "uwstars": 3,
+    "uwheight": "6-3",
+    "uwweight": 306,
+    "uwschool": "Kamehameha",
+    "uwhometown": "Honolulu"
+  },
+  {
+    "uwfirstname": "Zakhari",
+    "uwlastname": "Spears",
+    "uwposition": "CB",
+    "uwstars": 3,
+    "uwheight": "6-2",
+    "uwweight": 180,
+    "uwschool": "Loyola",
+    "uwhometown": "Los Angeles"
+  },
+  {
+    "uwfirstname": "Maurice",
+    "uwlastname": "Heims",
+    "uwposition": "OLB",
+    "uwstars": 3,
+    "uwheight": "6-5",
+    "uwweight": 235,
+    "uwschool": "Santa Margarita Catholic",
+    "uwhometown": "Hamburg, Germany"
+  },
+  {
+    "uwfirstname": "Dyson",
+    "uwlastname": "McCutcheon",
+    "uwposition": "CB",
+    "uwstars": 3,
+    "uwheight": "5-10",
+    "uwweight": 165,
+    "uwschool": "Bishop Amat",
+    "uwhometown": "La Puente, CA"
+  },
+  {
+    "uwfirstname": "Caleb ",
+    "uwlastname": "Berry",
+    "uwposition": "RB",
+    "uwstars": 3,
+    "uwheight": "6-0",
+    "uwweight": 209,
+    "uwschool": "Lufkin",
+    "uwhometown": "Lufkin, TX"
+  },
+  {
+    "uwfirstname": "Robert",
+    "uwlastname": "Wyrsch",
+    "uwposition": "OL",
+    "uwstars": 3,
+    "uwheight": "6-7",
+    "uwweight": 270,
+    "uwschool": "Soquel",
+    "uwhometown": "Soquel, CA"
+  },
+  {
+    "uwfirstname": "Caden ",
+    "uwlastname": "Jumper",
+    "uwposition": "FB",
+    "uwstars": 3,
+    "uwheight": "6-3",
+    "uwweight": 245,
+    "uwschool": "Eatonville",
+    "uwhometown": "Eatonville"
+  },
+  {
+    "uwfirstname": "Siaosi",
+    "uwlastname": "Finau",
+    "uwposition": "DT",
+    "uwstars": "NR",
+    "uwheight": "6-3",
+    "uwweight": 300,
+    "uwschool": "Renton",
+    "uwhometown": "Renton"
+  }
+]

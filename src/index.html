@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <%= t.include("partials/_head.html", grunt.data.json) %>
+    <% if (json.project.production && !json.project.embedded) { %>
+      <%= t.include("partials/_dataLayer.html") %>
+      <%= t.include("partials/_gtm.html") %>
+    <% } %>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <% if (json.project.production && !json.project.embedded) { %>
+      <%= t.include("partials/_gtmNoScript.html") %>
+    <% } %>
+    <responsive-child>
+      <div class="outer" ng-app="uw-wsu-recruits">
+  
+       <div class="intro">
+  
+         <!-- <h1>2020 RECRUIT TRACKER</h1> -->
+  
+         <p class="welcome">Stay up-to-date with the incoming athletes who have committed to play football at the University of Washington and Washington State University. Players in the Class of 2020 are first eligible to sign their letters of intent in this year's early signing period, which runs from Dec. 18-20. National Signing Day, which kicks off the traditional signing period, is Feb. 5, 2020.</p>
+  
+         <p class="updated">Last updated: February 4, 2020</p>
+  
+         <div class="credits">
+  
+           Production by <span class="credit-name">Evan Webeck</span> Development by <span class="credit-name">Thomas Wilburn</span><br/>
+           Ratings courtesy of <span class="credit-name">247Sports Composite</span>
+  
+         </div>
+  
+  
+  
+        </div>
+  
+        <div class="flex-container">
+          <%= t.include("./_uwtable.html") %>
+          <%= t.include("./_wsutable.html") %>
+        </div>
+  
+      </div>
+  
+    </responsive-child>
+    <script>
+      var cougarsData = <%= JSON.stringify(json.WSU) %>;
+      var huskiesData = <%= JSON.stringify(json.UW) %>;
+    </script>
+
+    <script src="app.js" async></script>
+    <% if (json.project.production) { %>
+    <%= !json.project.embedded ? t.include("partials/_analytics.html") : "" %>
+    <%= t.include("partials/_workHere.html") %>
+    <% } %>
+  </body>
+</html>
